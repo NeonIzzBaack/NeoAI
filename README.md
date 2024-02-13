@@ -54,11 +54,11 @@ Si lo usa en valorant, no funciona porque necesita un controlador del kernel par
 
 </details>
 
-## ![](https://github.com/McDaived/Discord-Profile-Card/assets/18085492/7a4879fd-97a1-4807-98e5-8f62137dee6e)Preview :
+## (https://github.com/McDaived/Discord-Profile-Card/assets/18085492/7a4879fd-97a1-4807-98e5-8f62137dee6e)Preview :
 https://github.com/McDaived/AIMi/assets/18085492/d9e4e81e-ca92-4dcd-b336-ecffec01ed55
 
 
-## ![]How to use :
+## How to use :
 1. Descargue [Python](https://www.python.org/).
 2. Descarga NeoAI.
 3. Extráelo.
@@ -69,7 +69,7 @@ https://github.com/McDaived/AIMi/assets/18085492/d9e4e81e-ca92-4dcd-b336-ecffec0
 
 6. ``Python start.py`` o doble-click.
 
-## ![] Settings :
+##  Settings :
 
 <summary>Optimización para cs2</summary>
     La mejor configuración para CS2 y asegúrese de usar este punto de mira o crear su propio punto de mira, para hacer que la red natural sea más rápida y dé algo de espacio para analizar el modelo.
