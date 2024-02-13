@@ -113,31 +113,31 @@ if button == button.x2: #Change this button.x2 for example : button.left for lef
 
 ## ![](https://github.com/McDaived/AIMi/assets/18085492/cc9f4ef7-bce7-488a-82dc-e4baa198896a)Change Log :
 ```diff
-Update (Nov 15 2023)
-+ improve the neural network a little faster.
-+ made aimbot a little smooth.
-+ Add sound when active aimbot.
-+ Add setting for Stretch Screen in Readme.
-+ made Aim a little accurate.
-+ Fix aim on head.
+Update (Feb 13 2024)
++ mejorar la red neuronal un poco más rápido.
++ El aimbot un poco suave.
++ Agregar sonido cuando aimbot está activo.
++ Agregar configuración para estirar pantalla.
++ hize que apuntar fuera un poco preciso.
++ Fijar objetivo en la cabeza.
 ```
 
 
 ## ![](https://github.com/McDaived/AIMi/assets/18085492/575d27e7-105d-4861-ba99-79e3ac2432dc)About :
 
-### Neural network :
-Neural network aimbots are great for a lot of reasons... Probably most importantly, it never access the memory of the game, so it's practically invisible to "Anti-Cheat" sofware, additionally, they can abstract it capabilities to many different games without code modifications.
+### Red neuronal :
+Los aimbots de redes neuronales son geniales por muchas razones... Probablemente lo más importante es que nunca acceden a la memoria del juego, por lo que son prácticamente invisibles para el software "Anti-Cheat", además pueden abstraer sus capacidades a muchos juegos diferentes sin modificaciones de código. .
 ![](https://github.com/McDaived/AIMi/assets/18085492/a861b711-21e4-4d42-bd87-44d35be9b8b2)
 
 ### YOLOvX :
-The detection network is trained on a combination of video game images and the **COCO** dataset, it is optimized to recognize human-like objects as quickly as possible, the detection engine can be abstracted to many FPS games.
+La red de detección está entrenada en una combinación de imágenes de videojuegos y el conjunto de datos **COCO**, está optimizada para reconocer objetos parecidos a humanos lo más rápido posible, el motor de detección se puede abstraer a muchos juegos FPS.
 
-To know more about [yolov3](https://github.com/ultralytics/yolov3)
+Para saber más sobre [yolov3](https://github.com/ultralytics/yolov3)
 
 ![](https://github.com/McDaived/AIMi/assets/18085492/50e29940-26f7-4eb7-a136-818ef8b22348)
 
 ### OpenCV :
-it provide an abstraction layer for working with the screen capture data, but it it also allows us to harness the power of GPU hardware by interfacing CUDA and OpenCL, it uses OpenCV to process that image into a form that is recognizable to the object-detection engine.
+Proporciona una capa de abstracción para trabajar con los datos de captura de pantalla, pero también nos permite aprovechar el poder del hardware GPU al interconectar CUDA y OpenCL, utiliza OpenCV para procesar esa imagen en una forma que sea reconocible para la detección de objetos. motor.
 
 ![](https://github.com/McDaived/AIMi/assets/18085492/57f36a86-c149-44ac-a140-6fc05a0bad99)
 
