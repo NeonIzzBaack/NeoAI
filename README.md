@@ -6,7 +6,6 @@
 <h4 align="center">NeoAI es un aimbot de IA, funciona mediante la detección de objetos en tiempo real con redes neuronales y reconoce patrones similares a los movimientos humanos y la formación humana e identificará la cabeza como objetivo.</h4>
 <h6 align="center">Esto no se considera trampa en los juegos porque no modifica los archivos del juego ni interfiere con los juegos, solo toma el control en nombre del usuario.</h6>
   <p align="center">
-<img src="https://github.com/McDaived/AIMi/assets/18085492/9e53d002-80ec-472b-9156-5416a061790e" alt="Your Image Description" width="500">
 <img src="https://github.com/McDaived/AIMi/assets/18085492/c430ab48-99e4-466b-833f-77879a5a01e9" alt="Your Image Description" width="260">
 
 
